@@ -1,0 +1,32 @@
+body {
+  background-color: pink;
+}
+
+.goomba {
+  height: 400px;
+  width: 400px;
+}
+
+.important {
+  text-decoration: underline;
+  font-family: monospace;
+  font-style: italic;
+}
+
+.yeahbuddy {
+  font-family: monospace;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+  font-size: 30px;
+}
+.best {
+  font-size: 50px;
+  font-family: monospace;
+}
+
+li {
+  font-size: 30px;
+}
