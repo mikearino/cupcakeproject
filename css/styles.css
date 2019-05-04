@@ -13,6 +13,11 @@ body {
   font-style: italic;
 }
 
+ul.important {
+  text-decoration: underline;
+  font-family: fantasy;
+  font-style: italic;
+}
 .yeahbuddy {
   font-family: monospace;
 }
